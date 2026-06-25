@@ -5,6 +5,9 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
+## Live Demo
+
+https://agripredict-tgan.onrender.com
 ## 📌 Overview
 
 AgriPredict is a Machine Learning-based web application that predicts the future prices of agricultural and horticultural commodities using historical market data. The application helps farmers, traders, and policymakers make informed decisions by forecasting crop prices and visualizing market trends.
